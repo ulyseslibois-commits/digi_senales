@@ -1,0 +1,11 @@
+digi,Tipo de señal,Tasa de muestreo,Niveles,Normalizado
+1,Sinusoidal,20,4,True
+2,Sinusoidal,10,8,True
+3,Sinusoidal,10,4,False
+4,Sinusoidal,136,4,False
+5,Sinusoidal,10,4,False
+6,Sinusoidal,1,4,True
+7,Sinusoidal,5,4,False
+8,Sinusoidal,10,4,False
+9,Sinusoidal,6,4,False
+10,Ruido,6,4,False

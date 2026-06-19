@@ -1,0 +1,5 @@
+pip install streamlit
+pip show streamlit
+
+desde el Shell de Windows, dentro de la carpeta donde tengo el archivo ejecuto:
+py -m streamlit run "digitalizacion de señales.py"
