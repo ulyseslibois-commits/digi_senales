@@ -16,7 +16,7 @@ Comando en consola de vs code:
 Comando en consola de vs code
 -    pip install matplotlib
 (Libreria para crear graficas estilo matlab)
-
+Las demas librerias se cargan en python
 Forma de ejecucion:
 en power shell de windows y parados dentro del directorio donde se encuentra nuestro proyecto:
 -    py -m streamlit run "digitalizacion de imagenes.py"
